@@ -18,10 +18,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/text_home">
 
-        <RelativeLayout
-            android:layout_width="114dp"
-            android:layout_height="147dp"
-        </RelativeLayout>
+
 
     </androidx.cardview.widget.CardView>
 
