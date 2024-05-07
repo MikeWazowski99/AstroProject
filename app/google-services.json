@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614095749334",
+    "project_id": "mini-astro-73546",
+    "storage_bucket": "mini-astro-73546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614095749334:android:1e66fe6476b51210fb8977",
+        "android_client_info": {
+          "package_name": "com.example.mini_astro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHt0HOPFU0pxZ9NVGZ0FbPFQuupmEuRBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
