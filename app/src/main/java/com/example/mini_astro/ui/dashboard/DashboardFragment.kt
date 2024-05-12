@@ -37,7 +37,7 @@ class DashboardFragment : Fragment() {
 
     private fun initRetrofit() {
         lifecycleScope.launch(Dispatchers.IO) {
-            val myResponse = retrofit.getNasaData(KEY, date = "2024-05-05")
+            val myResponse = retrofit.getNasaData(KEY, date = "2024-05-07")
 
             if (myResponse.isSuccessful) {
 
